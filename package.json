@@ -1,0 +1,26 @@
+{
+  "name": "bolt",
+  "version": "1.0.0",
+  "description": "⚡ Bolt is a music bot for Discord — built in TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewflegg/bolt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewflegg/bolt/issues"
+  },
+  "homepage": "https://github.com/matthewflegg/bolt#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "ts-node": "^10.7.0",
+    "wokcommands": "^1.5.3"
+  }
+}
